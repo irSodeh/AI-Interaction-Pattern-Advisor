@@ -212,8 +212,7 @@ Field evidence is more valuable here than theory. If a recommendation from this 
 
 ---
 
-## License
-
+License
 MIT — see [LICENSE](LICENSE).
 
 Creator:
