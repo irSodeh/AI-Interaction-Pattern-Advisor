@@ -217,6 +217,7 @@ Field evidence is more valuable here than theory. If a recommendation from this 
 MIT — see [LICENSE](LICENSE).
 
 ## Creator:
+---
 Sodeh Abadi (Service & Product Designer Lead, AI-Native Products, Agentic Experience Designer, AI transformation.)
 ---
 **url** - https://linktr.ee/irSodeh
