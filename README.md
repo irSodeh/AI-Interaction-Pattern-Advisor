@@ -1,5 +1,3 @@
-# AI-Interaction-Pattern-Advisor
-
 # AI Interaction Pattern Advisor
 
 A Claude Skill that answers the question most AI projects skip: **not "can we build it," but "how should this show up in the experience — and at what level of autonomy?"**
