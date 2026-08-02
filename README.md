@@ -1,6 +1,6 @@
 # AI Interaction Pattern Advisor
 
-A Claude Skill that answers the question most AI projects skip: **not "can we build it," but "how should this show up in the experience — and at what level of autonomy?"**
+A Claude Skill that answers the question most AI projects skip: **not "can we build it," but "how should this show up in the experience, and at what level of autonomy?"**
 
 Most failed enterprise AI work is not a model problem. It is a **pattern problem**: the right capability delivered through the wrong interaction, at the wrong level of automation, inside a journey nobody redesigned.
 
